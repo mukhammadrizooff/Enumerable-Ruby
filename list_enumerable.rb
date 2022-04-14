@@ -1,3 +1,5 @@
+require_relative 'module_enumerable'
+
 class MyList
   include MyEnumerable
 
